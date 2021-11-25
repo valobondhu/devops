@@ -49,3 +49,13 @@ server {
 }
 ```
 
+
+
+###### Allow Download file size
+
+```
+vim uwsgi_params
+uwsgi_max_temp_file_size 20480m;
+```
+
+
