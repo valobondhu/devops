@@ -106,3 +106,4 @@ if ($test = IG) {
 বিষয়টা ব্যাখ্যা করি। প্রথমে filename=/usa যখন ছিলো তখন test variable এ value সেট করেছি যে file টি usa  এর । এরপর redirect_country yes কিনা চেক করলাম, redirect_country yes মানে ঐদেশ থেকে request আসলে সেটা redirect হবে , redirect country yes হলে test variable এর আগের value এর সাথে আরো একটা value add করলাম G । G   দিয়ে আমি বুঝালাম global অথাৎ redirect হবে। এখন test variable এর value UG। এর মানে ফাইলটা USA এর এবং সেটা usa থেকে load করাতে চাই। 
 ```
 
+# test
