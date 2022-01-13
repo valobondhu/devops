@@ -9,3 +9,6 @@
 
 ### See saved user name and email in git config
 	git config --list
+	
+### git repository add
+	git remote add origin https://github.com/username/new_repo
